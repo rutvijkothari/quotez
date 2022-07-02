@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".SplashActivity">
+
+    <TextView
+        android:id="@+id/quotez"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:fontFamily="@font/basic"
+        android:letterSpacing="0.3"
+        android:text="QUOTEZ"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_30ssp"
+        android:layout_marginBottom="@dimen/_10sdp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:id="@+id/relativeLayout"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/white">
+
+        <TextView
+            android:layout_marginHorizontal="@dimen/_5sdp"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/splashQuotez"
+            android:textColor="@color/black"
+            android:fontFamily="@font/basic"
+            android:textSize="@dimen/_12ssp"
+            android:letterSpacing="0.1"
+            android:textStyle="bold"
+            />
+    </LinearLayout>
+
+</LinearLayout>
