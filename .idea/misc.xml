@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/androidGit/quotez/app/src/main/res/drawable/background.xml" value="0.1805" />
+        <entry key="..\:/androidGit/quotez/app/src/main/res/drawable/happy_bg.xml" value="0.1805" />
+        <entry key="..\:/androidGit/quotez/app/src/main/res/drawable/love_bg.xml" value="0.1805" />
+        <entry key="..\:/androidGit/quotez/app/src/main/res/drawable/magic_bg.xml" value="0.1805" />
+        <entry key="..\:/androidGit/quotez/app/src/main/res/drawable/search_design_bg.xml" value="0.1805" />
         <entry key="..\:/androidGit/quotez/app/src/main/res/layout/activity_home.xml" value="0.23157894736842105" />
         <entry key="..\:/androidGit/quotez/app/src/main/res/layout/activity_main.xml" value="0.11376858435681965" />
         <entry key="..\:/androidGit/quotez/app/src/main/res/layout/activity_splash.xml" value="0.21" />
